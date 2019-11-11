@@ -5,7 +5,7 @@ JS Homework Assignment (Quiz Game)
 Prerequisites
 To install this software you will need the ability to connect to the web browswer.
 
-Running Tests
+ # Running Tests
 Open up the Quiz
 Select the "Start Quiz" button
 Answer the questions that follow
@@ -15,7 +15,7 @@ See highscore results
 Built With
 HTML, CSS, Bootstrap and Javascript
 
-Released under MIT License
+# Released under MIT License
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -25,5 +25,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-Link
-https://bsjherbert.github.io/QuizGame/
+# Link
+https://ana199816.github.io/homework-04/
