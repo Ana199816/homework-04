@@ -9,7 +9,7 @@ This project emphasizes the use of using Javascript to make dynamic changes to a
 This project utilizes the use of appending HTML pages
 This project has the following features:
 A Start Quiz button
-This starts a timer for the user, each question averages 15 seconds each for a total time of 75 seconds + 1.
+This starts a timer for the user, each question averages 15 seconds each for a total time of 60 s.
 An appended HTML page that features questions, and multiple choice answers
 If questions are answered incorrectly, 5 seconds are deducted off remaining time
 Answers are recording using an event listener, "click" and tracks correct answers
