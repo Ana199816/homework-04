@@ -78,3 +78,4 @@ https://ana199816.github.io/homework-04/
 <img src="assets/images/quiz1.PNG">
 <img src="assets/images/quiz2.png">
 <img src="assets/images/quiz3.png">
+<img src="assets/images/validator.png">
