@@ -73,7 +73,7 @@ Two Javascript Page * Contains: * Variables, including arrays with object * Even
 
 
 # Link
-https://ana199816.github.io/homework-04/
+https://annasuvvac.github.io/homework-04/
 # Screenshot 
 <img src="assets/images/quiz1.PNG">
 <img src="assets/images/quiz2.png">
